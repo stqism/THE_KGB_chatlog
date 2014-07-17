@@ -1,2 +1,3 @@
-THE_KGB_chatlog
+chatlog
 ===============
+The UPPER_ECHELON module powering https://wiki.tox.im/logs
